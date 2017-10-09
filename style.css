@@ -25,6 +25,20 @@
   margin: 0 auto;
 }
 
+
+/*
+  原始 css code
+*/
+
+@media screen and (max-width: 1023px) {
+  .container {
+    width: auto;
+  }
+  /*
+    手機版的 css 都寫在這邊
+  */   
+
+}
 #about, #my-work, #contact-me {
   border: 1px ;
 }
